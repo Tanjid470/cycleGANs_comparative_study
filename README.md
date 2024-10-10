@@ -1,1 +1,1 @@
-# cycleGANs_comparative_study
+# CycleGANs Comparative Study
